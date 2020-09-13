@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="647d2f33-7ee3-4f71-b9f7-6879795805ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Advanced" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1am0cJr3WL00g8if3bdXoSgr6xj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="advanced" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="guild" />
+      <recent name="healthyHeaven" />
+      <recent name="rabbits" />
+      <recent name="christmas" />
+      <recent name="E6_StrategyPattern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Advanced\MultidimensionalArrays" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="E6_GenericCountMethodDoubles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Advanced\T7_IteratorsAndComparators\src\E8_PetClinics" />
+      <recent name="D:\Advanced\T7_IteratorsAndComparators\src\ZipFiles" />
+      <recent name="D:\Advanced\T6_Generics\src\L1JarOfT" />
+      <recent name="D:\Advanced\T4_StreamsFilesAndDirectoriesResourcesLab" />
+      <recent name="D:\Advanced\T4_StreamsFilesAndDirectoriesResourcesLab\src\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LootBox">
+    <configuration name="ColleagueSantaPresentFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColleagueSantaPresentFactory" />
+      <module name="Т9_ExamTasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Crossfire" />
+      <module name="MultidimensionalArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D2_ReVolt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D2_ReVolt" />
+      <module name="Т9_ExamTasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LootBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LootBox" />
+      <module name="Т9_ExamTasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guild.Main" />
+      <module name="Т9_ExamTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guild.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3_StackIterator.Main" />
+      <module name="T7_IteratorsAndComparators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E3_StackIterator.SecondStack" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomStackClass.Main" />
+      <module name="TT_Workshops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CustomStackClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E8_CustomListSort.Main" />
+      <module name="T6_Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E8_CustomListSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L4_ListUtilities.Main" />
+      <module name="T6_Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L4_ListUtilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E2_Box.Main" />
+      <module name="T6_Generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E2_Box.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LootBox" />
+        <item itemvalue="Application.Crossfire" />
+        <item itemvalue="Application.ColleagueSantaPresentFactory" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.D2_ReVolt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="647d2f33-7ee3-4f71-b9f7-6879795805ab" name="Default Changelist" comment="" />
+      <created>1587325539662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587325539662</updated>
+      <workItem from="1587325543938" duration="18249000" />
+      <workItem from="1587390023701" duration="17988000" />
+      <workItem from="1587915213389" duration="9867000" />
+      <workItem from="1588002926390" duration="15013000" />
+      <workItem from="1588347349189" duration="25119000" />
+      <workItem from="1588423314556" duration="42862000" />
+      <workItem from="1588470639805" duration="3572000" />
+      <workItem from="1588533891585" duration="3738000" />
+      <workItem from="1589809710085" duration="21325000" />
+      <workItem from="1589974647237" duration="34703000" />
+      <workItem from="1590137496824" duration="2175000" />
+      <workItem from="1590139704837" duration="57679000" />
+      <workItem from="1590318073341" duration="20336000" />
+      <workItem from="1590350099251" duration="47080000" />
+      <workItem from="1590494088639" duration="16836000" />
+      <workItem from="1590538491633" duration="3480000" />
+      <workItem from="1590595766121" duration="18632000" />
+      <workItem from="1590659089554" duration="23233000" />
+      <workItem from="1590762859553" duration="7586000" />
+      <workItem from="1590782907920" duration="48084000" />
+      <workItem from="1590872796607" duration="8139000" />
+      <workItem from="1590944310326" duration="10304000" />
+      <workItem from="1591028927989" duration="27925000" />
+      <workItem from="1591116122850" duration="5096000" />
+      <workItem from="1591291849269" duration="1985000" />
+      <workItem from="1591353090054" duration="5105000" />
+      <workItem from="1591363205669" duration="19117000" />
+      <workItem from="1591444275229" duration="1210000" />
+      <workItem from="1591456569319" duration="13376000" />
+      <workItem from="1591471268527" duration="15713000" />
+      <workItem from="1591540930971" duration="20405000" />
+      <workItem from="1591619910452" duration="68025000" />
+      <workItem from="1591804051804" duration="22682000" />
+      <workItem from="1591886965791" duration="15788000" />
+      <workItem from="1591961470276" duration="12543000" />
+      <workItem from="1592009191629" duration="8342000" />
+      <workItem from="1592058133072" duration="44791000" />
+      <workItem from="1592144512932" duration="28685000" />
+      <workItem from="1592226214351" duration="27776000" />
+      <workItem from="1592326683120" duration="2487000" />
+      <workItem from="1592483482649" duration="27490000" />
+      <workItem from="1592580898057" duration="39333000" />
+      <workItem from="1592663429672" duration="24874000" />
+      <workItem from="1592698344556" duration="5936000" />
+      <workItem from="1592742146328" duration="30438000" />
+      <workItem from="1592823194040" duration="22722000" />
+      <workItem from="1592907997687" duration="44577000" />
+      <workItem from="1592989809370" duration="40734000" />
+      <workItem from="1593085419785" duration="25926000" />
+      <workItem from="1593137466233" duration="606000" />
+      <workItem from="1593185985413" duration="22121000" />
+      <workItem from="1593254873064" duration="6489000" />
+      <workItem from="1593308105985" duration="1635000" />
+      <workItem from="1593322384115" duration="8509000" />
+      <workItem from="1593348944451" duration="1565000" />
+      <workItem from="1593411632837" duration="834000" />
+      <workItem from="1593712930163" duration="1338000" />
+      <workItem from="1593784425035" duration="946000" />
+      <workItem from="1593979905342" duration="4862000" />
+      <workItem from="1594042039486" duration="7150000" />
+      <workItem from="1596296915776" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="113" key="#Getter_Template" timestamp="1592160361548">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="113" key="#Getter_Template/0.0.1600.860@0.0.1600.860" timestamp="1592160361548" />
+    <state x="392" y="88" key="#Inspections" timestamp="1592485926283">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1592485926283" />
+    <state x="31" y="47" key="#Live_Templates" timestamp="1592594713798">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="31" y="47" key="#Live_Templates/0.0.1600.860@0.0.1600.860" timestamp="1592594713798" />
+    <state x="517" y="86" key="#ParkingSystem" timestamp="1590782668679">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="86" key="#ParkingSystem/0.0.1600.860@0.0.1600.860" timestamp="1590782668679" />
+    <state x="392" y="44" key="#Project_Structure" timestamp="1592437061098">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="44" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1592437061098" />
+    <state x="345" y="184" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow" timestamp="1592612748302">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="345" y="184" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.0.1600.860@0.0.1600.860" timestamp="1592612748302" />
+    <state x="490" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591406340808">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="490" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1591406340808" />
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1593204339166">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1593204339166" />
+    <state x="474" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592269181173">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="474" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860@0.0.1600.860" timestamp="1592269181173" />
+    <state x="538" y="288" width="649" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592159901032">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="538" y="288" width="649" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1592159901032" />
+    <state x="516" y="147" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1588033018000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="516" y="147" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1600.860@0.0.1600.860" timestamp="1588033018000" />
+    <state x="530" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592766748789">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1592766748789" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592702290248">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1592702290248" />
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592601420830">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.860@0.0.1600.860" timestamp="1592601420830" />
+    <state x="397" y="67" key="#test.test" timestamp="1591833881483">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="67" key="#test.test/0.0.1600.860@0.0.1600.860" timestamp="1591833881483" />
+    <state x="555" y="132" key="#xdebugger.evaluate" timestamp="1590613540588">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="132" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1590613540588" />
+    <state x="557" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591407827368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="557" y="291" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1591407827368" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1591806301596">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1591806301596" />
+    <state x="79" y="42" width="1416" height="676" key="DiffContextDialog" timestamp="1593098658916">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="79" y="42" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1593098658916" />
+    <state x="580" y="141" key="FileChooserDialogImpl" timestamp="1591699533109">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="141" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1591699533109" />
+    <state width="1557" height="216" key="GridCell.Tab.0.bottom" timestamp="1593309750578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593309750578" />
+    <state width="1557" height="216" key="GridCell.Tab.0.center" timestamp="1593309750578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593309750578" />
+    <state width="1557" height="216" key="GridCell.Tab.0.left" timestamp="1593309750578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593309750578" />
+    <state width="1557" height="216" key="GridCell.Tab.0.right" timestamp="1593309750578">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="216" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593309750578" />
+    <state x="380" y="172" key="IDE.errors.dialog" timestamp="1592264042982">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="172" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1592264042982" />
+    <state x="465" y="128" key="NewModule_or_Project.wizard" timestamp="1591362246888">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="128" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1591362246888" />
+    <state x="615" y="363" key="ReplaceDuplicatesPrompt" timestamp="1593136702191">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="615" y="363" key="ReplaceDuplicatesPrompt/0.0.1600.860@0.0.1600.860" timestamp="1593136702191" />
+    <state x="301" y="8" key="SettingsEditor" timestamp="1596296938346">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1596296938346" />
+    <state x="616" y="207" key="chooseDestDirectoryDialog" timestamp="1591834052541">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="616" y="207" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1591834052541" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592627853197">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1592627853197" />
+    <state x="495" y="67" width="933" height="696" key="com.intellij.ide.util.TipDialog" timestamp="1594042042639">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="67" width="933" height="696" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1594042042639" />
+    <state x="504" y="322" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592678602107">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="504" y="322" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1592678602107" />
+    <state x="570" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590786844494">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="570" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1590786844494" />
+    <state x="114" y="0" width="794" height="593" key="dock-window-1" timestamp="1591927032659">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="114" y="0" width="794" height="593" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1591927032659" />
+    <state x="732" y="127" width="540" height="498" key="extract.method.dialog" timestamp="1593308502596">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="732" y="127" width="540" height="498" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1593308502596" />
+    <state x="365" y="13" key="new project wizard" timestamp="1593786696549">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="365" y="13" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1593786696549" />
+    <state x="506" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1592915027077">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="58" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1592915027077" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1592745328517">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1592745328517" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1592849976068">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1592849976068" />
+    <state x="207" y="182" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1592594453634">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="207" y="182" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1600.860@0.0.1600.860" timestamp="1592594453634" />
+    <state x="522" y="341" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592663677192">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="522" y="341" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1600.860@0.0.1600.860" timestamp="1592663677192" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Lab_Task_1_CompareMatrices_01.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Lab_Task_5_MaximumSumOf2x2Submatrix.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Lab_Task_6_PrintDiagonalsOfSquareMatrix.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Lab_Task_7_FindTheRealQueen.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Lab_Task_7_FindTheRealQueen.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_4_MaximalSum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_4_MaximalSum01.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_4_MaximalSum01.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_5_MatrixShuffling.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/MatrixShuffling.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_7_Crossfire.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_7_TheHeiganDance01.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Lab_Task_6_PrintDiagonalsOfSquareMatrix_01.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_9_ParkingSystem.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_9_ParkingSystem.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_9_ParkingSystem.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/L1_BrowserHistory.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/L4_MatchingBrackets.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/L6_HotPotato.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/L8_BrowserHistoryUpgrade.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E2_BasicStackOperations.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E2_BasicStackOperations.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E2_BasicStackOperations.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E5_Robotics.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T1_StacksAndQueues/src/Exercise_Task_7_RecursiveFibonacci.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E7_RecursiveFibonacci.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T1_StacksAndQueues/src/Exercise_Task_7_RecursiveFibonacciWithStack.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E7_RecursiveFibonacci.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T1_StacksAndQueues/src/Exercise_Task_8_SimpleTextEditor.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/src/E8_SimpleTextEditorConstantin.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L1_CompareMatrices.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L5_MaximumSumOf2x2Submatrix.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L6_PrintDiagonalsOfSquareMatrix.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L6_PrintDiagonalsOfSquareMatrix.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L7_FindTheRealQueen.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L8_WrongMeasurements.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/L8_WrongMeasurements.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E1_FillTheMatrix.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E1_FillTheMatrix.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_6_StringMatrixRotation.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E6_StringMatrixRotation.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="row==9" language="JAVA" />
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E12_Matrix_BFS_Approach.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E12_Matrix_DFS_Approach.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E12_Matrix_DFS_Approach.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E12_Matrix_BFS_Approach_MinusClass.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E10_RadioactiveMutantVampireBunnies.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E10_RadioactiveMutantVampireBunnies.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/exercise.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E11_ReverseMatrixDiagonals.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgorithmsFundamentals/src/T1_L1_RecursiveArraySum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgorithmsFundamentals/src/T1_L1_RecursiveArraySum1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgorithmsFundamentals/src/T1_L2_RecursiveDrawing.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgorithmsFundamentals/src/T1_L3_Generating01Vectors.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgorithmsFundamentals/src/T1_L3_Generating01Vectors.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgorithmsFundamentals/src/T1_L2_RecursiveDrawing.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E11_ReverseMatrixDiagonals.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/DemoArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T1_StacksAndQueues/src/Demo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Temp1_02-Parking-System.zip/02.ParkingSystem-Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Temp1_02-Parking-System.zip/02.ParkingSystem-Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E9_ParkingSystem1.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E9_ParkingSystem.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E9_ParkingSystem.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/E9_ParkingSystem1.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/src/L1_ParkingLot.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/src/L3_VoinaNumberGame.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/src/L5_AverageStudentsGrades.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/src/L5_ProductShop.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="input.equals(&quot;Copper&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/src/E6_AMinerTask.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/src/E8_HandsOfCards.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/Lab3_CopyBytes.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/L4_ExtractIntegers.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/L5_WriteEveryThirdLine.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/L6_SortLines.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/L7_ListFiles.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/E2_SumBytes.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/src/E10_SerializeArrayList.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T5_DefiningClasses/src/L1_CarInfo/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T5_DefiningClasses/src/E3_SpeedRacing/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T6_Generics/src/L2_GenericArrayCreator/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T6_Generics/src/E6_GenericCountMethodDoubles/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T6_Generics/src/E7_CustomList/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T6_Generics/src/E8_CustomListSort/Main.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/L4_BookComparator/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E1_ListyIterator/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TT_Workshops/src/CustomSmartArray/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TT_Workshops/src/CustomSmartArray/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E2_Collection/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E2_Collection/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E3_StackIteratorKonstantin/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E7_EqualityLogicc/Person.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/demo.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/demo.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E8_PetClinics/Clinic2.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TT_Workshops/src/Workshop2_DoublyLinkedList/DoublyLinkedList.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E9_LinkedListTraversal/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E9_LinkedListTraversal/LinkedListTraversal.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T8_Functional Programming/src/Demo.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/fromFBGroup/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E3_StackIterator/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T8_Functional Programming/src/E4_AppliedArithmetic.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/T8_Functional Programming/src/Demo.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/A2_PresentDelivery.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/A2_PresentDelivery.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/B1_DatingApp.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/B2_BookWorm2.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/rabbitsMine/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/healthyHeaven/Main.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/healthyHeaven/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/D1_LootBox.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/guild/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/ColleagueSantaPresentFactory.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/ColleagueSantaPresentFactory.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Т9_ExamTasks/src/ColleagueSantaPresentFactory.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jrt://C:/Program Files/JetBrains/IntelliJ IDEA 2019.3.4/jbr!/java.base/java/io/BufferedReader.class</url>
+          <line>92</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Crossfire.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_4_MaximalSum02.java</url>
+          <line>44</line>
+          <properties class="Exercise_Task_4_MaximalSum02" method="calculateSumElementsInnerSquareMatrix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/src/Demo.java</url>
+          <line>26</line>
+          <properties class="Main" method="isSafe">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Temp1_02-Parking-System.zip/02.ParkingSystem-Solution.java</url>
+          <line>8</line>
+          <properties class="ParkingSystem" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/T7_IteratorsAndComparators/src/E7_EqualityLogicc/Person.java</url>
+          <line>31</line>
+          <properties class="E7_EqualityLogicc.Person" method="equals">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/MultidimensionalArrays/src/Exercise_Task_7_TheHeiganDance01.java</url>
+          <line>4</line>
+          <properties field="MIN_LIMIT" class="Exercise_Task_7_TheHeiganDance01" />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="playerPosition" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Advanced$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1592110896249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>E8_CustomListSort.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Advanced$Exercise_Task_3_DiagonalDifference.ic" NAME="Exercise_Task_3_DiagonalDifference Coverage Results" MODIFIED="1588031538343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Advanced$E7_HandsOfCards.ic" NAME="E7_HandsOfCards Coverage Results" MODIFIED="1590872452572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

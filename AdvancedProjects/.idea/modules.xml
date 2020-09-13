@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/3e.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/3e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmsFundamentals/AlgorithmsFundamentals.iml" filepath="$PROJECT_DIR$/AlgorithmsFundamentals/AlgorithmsFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/E9_ParkingSystem.iml" filepath="$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/E9_ParkingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays1.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/SetAndMapsAdvanced.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/SetAndMapsAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/StacksAndQueuesZeroPointTwo.iml" filepath="$PROJECT_DIR$/StacksAndQueuesZeroPointTwo/StacksAndQueuesZeroPointTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1_StacksAndQueues/StacksAndQueues_1_0.iml" filepath="$PROJECT_DIR$/T1_StacksAndQueues/StacksAndQueues_1_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T1_StacksAndQueues/T1_StacksAndQueues.iml" filepath="$PROJECT_DIR$/T1_StacksAndQueues/T1_StacksAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/T2_MultidimensionalArraysTwoPointO.iml" filepath="$PROJECT_DIR$/T2_MultidimensionalArraysTwoPointO/T2_MultidimensionalArraysTwoPointO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T3_SetsAndMapsAdvanced/T3_SetsAndMapsAdvanced.iml" filepath="$PROJECT_DIR$/T3_SetsAndMapsAdvanced/T3_SetsAndMapsAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/T4_StreamsFilesAndDirectoriesResourcesLab.iml" filepath="$PROJECT_DIR$/T4_StreamsFilesAndDirectoriesResourcesLab/T4_StreamsFilesAndDirectoriesResourcesLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T5_DefiningClasses/T5_DefiningClasses.iml" filepath="$PROJECT_DIR$/T5_DefiningClasses/T5_DefiningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T6_Generics/T6_Generics.iml" filepath="$PROJECT_DIR$/T6_Generics/T6_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T7_IteratorsAndComparators/T7_IteratorsAndComparators.iml" filepath="$PROJECT_DIR$/T7_IteratorsAndComparators/T7_IteratorsAndComparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T8_Functional Programming/T8_Functional Programming.iml" filepath="$PROJECT_DIR$/T8_Functional Programming/T8_Functional Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TT_Workshops/TT_Workshops.iml" filepath="$PROJECT_DIR$/TT_Workshops/TT_Workshops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/asd.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/asd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Т9_ExamTasks/Т9_ExamTasks.iml" filepath="$PROJECT_DIR$/Т9_ExamTasks/Т9_ExamTasks.iml" />
+    </modules>
+  </component>
+</project>
